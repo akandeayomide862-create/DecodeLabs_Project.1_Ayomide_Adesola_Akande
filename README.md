@@ -9,9 +9,8 @@ Objectives
 The key objectives of the cleaning process were:
 •	Identify and eliminate duplicate records.
 •	Detect and address missing values.
-•	Verify and correct data formats where necessary.<img width="1266" height="553" alt="raw_data" src="https://github.com/user-attachments/assets/a28ea0ca-7078-4abc-b942-34f85215c0b6" />
+•	Verify and correct data formats where necessary
 
-<img width="1205" height="544" alt="cleaned_data" src="https://github.com/user-attachments/assets/53041c27-d085-405b-a857-12bf133a9dd6" />
 
 •	Prepare the dataset for further analysis and reporting.
 •	
@@ -57,8 +56,16 @@ Throughout this project, the following skills were applied:
 •	Data Quality Validation
 •	Spreadsheet Handling and Management
 •	Data Formatting and Standardization
+
 •	Use of Excel Functions and Tools
 
 Conclusion
 The cleaning process successfully improved the overall quality and consistency of the dataset. By resolving missing values, verifying calculations, and ensuring proper formatting, the dataset became suitable for exploratory data analysis and subsequent visualization tasks. These steps helped establish a reliable foundation for generating accurate business insights.
 
+### Sreenshots
+#### Raw_data
+<img width="1266" height="553" alt="raw_data" src="https://github.com/user-attachments/assets/a28ea0ca-7078-4abc-b942-34f85215c0b6" />
+
+### Sreenshots
+#### Cleaned_data
+<img width="1205" height="544" alt="cleaned_data" src="https://github.com/user-attachments/assets/53041c27-d085-405b-a857-12bf133a9dd6" />
